@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(249, 235, 247);
+    text-align: center;
+}
+
+h3
+  {
+    font-size: 25px !important;
+  }
+
+  canvas {
+  	border:2px solid rgb(145, 119, 142);
+  }
